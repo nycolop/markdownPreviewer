@@ -8,6 +8,10 @@ export enum HtmlAttribute {
 
 export enum ElementName {
   textarea = "TEXTAREA",
+  code = "CODE",
+  blockQuote = "BLOCKQUOTE",
+  strong = "STRONG",
+  list = "LI",
 }
 
 export enum ElementIdValue {
